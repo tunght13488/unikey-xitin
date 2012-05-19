@@ -47,7 +47,7 @@ In DT:
 #define ATTR_IS_WORD_STOP(x) ((x >> 29) & 0x1)
 
 // Character sets. See encoding.cpp
-#define TOTAL_CHARSET 17
+#define TOTAL_CHARSET 18
 
 #define TCVN3_CHARSET		0
 #define UNICODE_CHARSET		0x101
