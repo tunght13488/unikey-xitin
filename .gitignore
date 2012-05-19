@@ -49,7 +49,7 @@ Ankh.NoLoad
 */[Bb]in
 */[Dd]ebug*/
 */[Rr]elease*/
-*/[Uu][Rr]elease*/
+*/[Uu][Rr]elease/
 
 #MonoDevelop
 *.pidb
@@ -75,3 +75,5 @@ packages/
 #ncrunch
 *ncrunch*
 *crunch*.local.xml
+
+newkey/URelease/
