@@ -1,6 +1,10 @@
 unikey-xitin
 ============
 
+This project is an attempt to add [this feature](http://sites.google.com/site/golemesnair/home) into [unikey](http://unikey.org/)
+
+Here is the readme.txt from unikey v3.6.2 source code
+
 Unikey
 ======
 
