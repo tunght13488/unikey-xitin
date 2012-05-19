@@ -1,0 +1,42 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NewKey", "NewKey.vcxproj", "{F318FFDB-FD7A-9D19-D8D2-C03CB355F304}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "byteio", "..\byteio\byteio.vcxproj", "{16A278FF-AEDD-D5C9-4688-6F8C57EE5F56}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Keyhook", "..\keyhook\Keyhook.vcxproj", "{41E8A50F-3ED9-02F4-B222-4DF5112AA495}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "uvconvert", "..\uvconvert\uvconvert.vcxproj", "{16CAE52E-E7DD-CA77-3C9E-4E9607FBA455}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "vnconv", "..\vnconv\vnconv.vcxproj", "{C8E1E2A8-85CE-4180-A5EC-CE7BE299C0D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+		Unicode Release|Win32 = Unicode Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F318FFDB-FD7A-9D19-D8D2-C03CB355F304}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F318FFDB-FD7A-9D19-D8D2-C03CB355F304}.Release|Win32.ActiveCfg = Release|Win32
+		{F318FFDB-FD7A-9D19-D8D2-C03CB355F304}.Unicode Release|Win32.ActiveCfg = Unicode Release|Win32
+		{16A278FF-AEDD-D5C9-4688-6F8C57EE5F56}.Debug|Win32.ActiveCfg = Debug|Win32
+		{16A278FF-AEDD-D5C9-4688-6F8C57EE5F56}.Release|Win32.ActiveCfg = Release|Win32
+		{16A278FF-AEDD-D5C9-4688-6F8C57EE5F56}.Unicode Release|Win32.ActiveCfg = Release|Win32
+		{41E8A50F-3ED9-02F4-B222-4DF5112AA495}.Debug|Win32.ActiveCfg = Debug|Win32
+		{41E8A50F-3ED9-02F4-B222-4DF5112AA495}.Release|Win32.ActiveCfg = Release|Win32
+		{41E8A50F-3ED9-02F4-B222-4DF5112AA495}.Unicode Release|Win32.ActiveCfg = Release|Win32
+		{16CAE52E-E7DD-CA77-3C9E-4E9607FBA455}.Debug|Win32.ActiveCfg = Debug|Win32
+		{16CAE52E-E7DD-CA77-3C9E-4E9607FBA455}.Release|Win32.ActiveCfg = Release|Win32
+		{16CAE52E-E7DD-CA77-3C9E-4E9607FBA455}.Unicode Release|Win32.ActiveCfg = Release|Win32
+		{C8E1E2A8-85CE-4180-A5EC-CE7BE299C0D7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C8E1E2A8-85CE-4180-A5EC-CE7BE299C0D7}.Debug|Win32.Build.0 = Debug|Win32
+		{C8E1E2A8-85CE-4180-A5EC-CE7BE299C0D7}.Release|Win32.ActiveCfg = Release|Win32
+		{C8E1E2A8-85CE-4180-A5EC-CE7BE299C0D7}.Release|Win32.Build.0 = Release|Win32
+		{C8E1E2A8-85CE-4180-A5EC-CE7BE299C0D7}.Unicode Release|Win32.ActiveCfg = Release|Win32
+		{C8E1E2A8-85CE-4180-A5EC-CE7BE299C0D7}.Unicode Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

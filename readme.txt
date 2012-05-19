@@ -1,9 +1,3 @@
-unikey-xitin
-============
-
-Unikey
-======
-
 The UniKey project consists of following components:
 - UniKey: Vietnamese keyboard program for Windows
 - UVConverter: Universal Vietnamese Encoding Converter
@@ -24,7 +18,7 @@ From version 3.62, UniKey uses RtfIO library for converting rich texts. At the m
 release source code of this library. Therefore, this package includes only the binary library
 in rtfio\rtfio.dll. You will need rtfio\rtfio.lib to build UniKey. The header file of 
 this library is rtfio\intrtfio.h. To run UniKey, rtfio.dll must be in the same folder
-as UniKey program.
+as UniKey program. 
 
 The official UniKey program on UniKey web site was compiled with RtfIO library inside, therefore
 does not need rtfio.dll to run.
@@ -39,5 +33,5 @@ Build UVConverter in Linux:
 
 For support, questions, please visit UniKey forum at: http://unikey.org/forum
 
-Pham Kim Long
+Pham Kim Long 
 unikey@gmail.com

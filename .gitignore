@@ -32,6 +32,7 @@
 *.[Cc]ache
 *.ilk
 *.log
+*.tlog
 *.lib
 *.sbr
 *.sdf
@@ -42,7 +43,13 @@ obj/
 [Bb]in
 [Dd]ebug*/
 [Rr]elease*/
+[Uu][Rr]elease*/
 Ankh.NoLoad
+
+*/[Bb]in
+*/[Dd]ebug*/
+*/[Rr]elease*/
+*/[Uu][Rr]elease*/
 
 #MonoDevelop
 *.pidb
